@@ -1,8 +1,8 @@
 {
   "name": "isgsm7",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if a string conforms/validates to GSM-7bit",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "ava"
   },

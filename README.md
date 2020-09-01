@@ -20,6 +20,17 @@ console.log(isGSM7("It was a teenage wedding and the old folks wished them well"
 // true
 ```
 
+## Changelog
+
+## 0.0.2
+
+- Fixed case of installation instruction
+- Fixed `main` direction in `package.json`
+
+## 0.0.1
+
+- Initial release
+
 ## References
 
 - https://frightanic.com/software-development/regex-for-gsm-03-38-7bit-character-set/

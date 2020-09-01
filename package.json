@@ -1,0 +1,28 @@
+{
+  "name": "isgsm7",
+  "version": "0.0.1",
+  "description": "Check if a string conforms/validates to GSM-7bit",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TimDaub/isgsm7bit.git"
+  },
+  "keywords": [
+    "gsm",
+    "gsm7",
+    "encoding",
+    "validation"
+  ],
+  "author": "Tim Daubenschütz <tim@daubenschuetz.de> (https://timdaub.github.io)",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/TimDaub/isgsm7bit/issues"
+  },
+  "homepage": "https://github.com/TimDaub/isgsm7bit#readme",
+  "devDependencies": {
+    "ava": "3.12.1"
+  }
+}

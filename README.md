@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-$ npm i --save isGSM7
+$ npm i --save isgsm7
 ```
 
 ## Usage

@@ -1,4 +1,4 @@
-# isGSM7
+# isgsm7
 
 > Check if a string conforms/validates to GSM-7bit.
 
@@ -11,16 +11,20 @@ $ npm i --save isgsm7
 ## Usage
 
 ```js
-const isGSM7 = require("isGSM7");
+const isgsm7 = require("isgsm7");
 
-console.log(isGSM7("🔥"));
+console.log(isgsm7("🔥"));
 // false
 
-console.log(isGSM7("It was a teenage wedding and the old folks wished them well"));
+console.log(isgsm7("It was a teenage wedding and the old folks wished them well"));
 // true
 ```
 
 ## Changelog
+
+## 0.1.0
+
+- Rename to `isgsm7` to avoid further case-sensitivity-confusions
 
 ## 0.0.2
 
